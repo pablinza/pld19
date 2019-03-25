@@ -16,6 +16,5 @@ Practica para la Materia de Sistemas Digitales PIC16F.
 Universidad Evangelica Boliviana.
 
 ## Lista de practicas desarrolladas en la Materia
-- P00 - Logica Combinatoria(Introduccion a Verilog)
-- P01 - Sumador Completo(Creacion de modulos e instancias)
-- P02 - Decodificadores(Creacion de test-bench para simulacion)
+- P01 - Sumador de 1-bit(Introduccion a Verilog)
+- P02 - Codificador de 7 Segmentos(Practica Verilog)
