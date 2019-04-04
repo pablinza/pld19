@@ -16,5 +16,14 @@ Practica para la Materia de Sistemas Digitales PIC16F.
 Universidad Evangelica Boliviana.
 
 ## Lista de practicas desarrolladas en la Materia
+### LAB1 (Combinatorios - Sistemas Digitales I)
 - P01 - Sumador de 1-bit(Introduccion a Verilog)
 - P02 - Codificador de 7 Segmentos(Practica Verilog)
+
+### LAB2 (Secuenciales - Sistemas Digitales II)
+- P01 - Latch tipo SR(Practica Verilog con tb)
+- P02 - Latch tipo D
+- P03 - Flip Flop tipo JK(Practica Verilog con tb)
+- P04 - Flip Flop tipo D
+- P05 - Flip Flop tipo JK Pre/Clr(Practica Verilog con tb)
+- P06 - Flip Flop tipo D Pre/Clr 
