@@ -27,3 +27,5 @@ Universidad Evangelica Boliviana.
 - P04 - Flip Flop tipo D
 - P05 - Flip Flop tipo JK Pre/Clr(Practica Verilog con tb)
 - P06 - Flip Flop tipo D Pre/Clr 
+- P07 - Temporizador mono-estable
+- P08 - Oscilador astable o Multivibrador
