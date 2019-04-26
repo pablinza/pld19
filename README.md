@@ -29,3 +29,5 @@ Universidad Evangelica Boliviana.
 - P06 - Flip Flop tipo D Pre/Clr 
 - P07 - Temporizador mono-estable
 - P08 - Oscilador astable o Multivibrador
+- P09 - Contador Sincrono de 4 bits con MOD ajustable
+- P10 - Divisor para reloj de 50MHz a 2Hz(500ms)
