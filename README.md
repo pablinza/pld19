@@ -31,3 +31,7 @@ Universidad Evangelica Boliviana.
 - P08 - Oscilador astable o Multivibrador
 - P09 - Contador Sincrono de 4 bits con MOD ajustable
 - P10 - Divisor para reloj de 50MHz a 2Hz(500ms)
+
+Pablo Zarate Arancibia
+Ingeniero Electronico
+pablinzte@gmail.com
