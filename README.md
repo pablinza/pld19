@@ -31,7 +31,10 @@ Universidad Evangelica Boliviana.
 - P08 - Oscilador astable o Multivibrador
 - P09 - Contador Sincrono de 4 bits con MOD ajustable
 - P10 - Divisor para reloj de 50MHz a 2Hz(500ms)
-
+### LAB3 (Implementacion Altera Quartus - Sistemas Digitales II)
+- boton.v  (Descripcion HDL para uso de pulsadores y botones de entrada)
+- reloj.v  (Descripcion HDL para operaciones que requieren uso de reloj)
+- puerto.v (Descripcion HDL para diversas operaciones con puertos)
 Pablo Zarate Arancibia
 Ingeniero Electronico
 pablinzte@gmail.com
