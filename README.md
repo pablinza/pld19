@@ -1,6 +1,8 @@
 # pld19
 # Sistemas Digitales II
-
+<p align="center">
+  <img src="pld19_git.png"></img>
+</p>
 Carpeta de la materia Sistemas Digitales II U.E.B con los ejercicios practicos en Laboratorio. Documentos creados con Verilog para la simulacion en ModelSim y su respectiva sintetizacion con Quartus II en la tarjeta EP2C5T144B.
 
 Los archivos con extension .v corresponden al codigo fuente de la practica
