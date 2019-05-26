@@ -14,7 +14,7 @@ Los archivos con extension .png corresponden a una imagen de esquema de circuito
 Las practicas estan ordenadas de acuerdo a su nombre de archivo.
 
 Deben contar con el modulo programador USB-Blaster y Quartus II Web Edition 13.0
-Practica para la Materia de Sistemas Digitales PIC16F.
+Practica para la Materia de Sistemas Digitales II.
 Universidad Evangelica Boliviana.
 
 ## Lista de practicas desarrolladas en la Materia
@@ -40,6 +40,7 @@ Universidad Evangelica Boliviana.
 - practica1.v (Modulos Verilog de la practica #1 EP2C5T)
 - practica1.png (Esquematico Quartus de la practica #1)
 - Usb_blaster_q16.1.zip (Driver del programador USB-Blaster Windows 10)
+Contacto:
 Pablo Zarate Arancibia
 Ingeniero Electronico
 pablinzte@gmail.com
