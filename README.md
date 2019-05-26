@@ -43,6 +43,4 @@ Universidad Evangelica Boliviana.
 
 
 Contacto:
-Pablo Zarate Arancibia
-Ingeniero Electronico
-pablinzte@gmail.com
+Pablo Zarate Arancibia / pablinzte@gmail.com
