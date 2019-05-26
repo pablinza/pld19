@@ -37,6 +37,9 @@ Universidad Evangelica Boliviana.
 - boton.v  (Descripcion HDL para uso de pulsadores y botones de entrada)
 - reloj.v  (Descripcion HDL para operaciones que requieren uso de reloj)
 - puerto.v (Descripcion HDL para diversas operaciones con puertos)
+- practica1.v (Modulos Verilog de la practica #1 EP2C5T)
+- practica1.png (Esquematico Quartus de la practica #1)
+- Usb_blaster_q16.1.zip (Driver del programador USB-Blaster Windows 10)
 Pablo Zarate Arancibia
 Ingeniero Electronico
 pablinzte@gmail.com
